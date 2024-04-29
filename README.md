@@ -1,1 +1,1 @@
-# Projeto de rede social, open-souce, simples e descontraida 
+# Uma de rede social, open-souce, simples e descontraida 
