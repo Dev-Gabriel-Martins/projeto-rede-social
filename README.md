@@ -1,1 +1,1 @@
-# projeto-rede-social
+# Projeto de rede social, open-souce, simples e descontraida 
